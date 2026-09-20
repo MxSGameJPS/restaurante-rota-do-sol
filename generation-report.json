@@ -1,0 +1,60 @@
+{
+  "generatedAt": "2026-09-20T20:57:14.279Z",
+  "generatorVersion": 2,
+  "aiUsed": true,
+  "aiWarning": "",
+  "source": "Google Places + CRM",
+  "design": {
+    "direction": "editorial",
+    "heroLayout": "asymmetric",
+    "fontPair": "humanist",
+    "motion": "standard",
+    "radius": "soft",
+    "signatureLabel": "Sol de Itati",
+    "colors": {
+      "primary": "#B4381C",
+      "accent": "#E8A33D",
+      "background": "#FBF4E9",
+      "surface": "#F4E7D2",
+      "text": "#2A1A12",
+      "muted": "#7A6552"
+    }
+  },
+  "audience": "Moradores de Itati e viajantes da RS-101 e da Rota do Sol que procuram uma parada honesta para comer bem, tomar café e provar pastéis quentes durante o dia.",
+  "pageJob": "Apresentar o restaurante e pastelaria como parada de referência na estrada, mostrar horários e localização com clareza e converter a visita em contato direto por telefone ou Instagram.",
+  "effects": [
+    "entrance-motion",
+    "section-reveal",
+    "hover-lift",
+    "parallax-hero",
+    "glass-header",
+    "ambient-glow",
+    "smooth-scroll",
+    "cta-pulse"
+  ],
+  "referenceImageCount": 0,
+  "skillMode": "auto",
+  "skills": [
+    "creative-web-director",
+    "brand-system-architect",
+    "seo-content-engine",
+    "conversion-director",
+    "organizacao-padrao-saulo"
+  ],
+  "skillRoutingReason": "Criação automática completa com direção, marca, SEO, conversão e organização.",
+  "photoAttributions": [
+    {
+      "name": "Restaurante e Pastelaria Rota do Sol",
+      "uri": "https://maps.google.com/maps/contrib/101512118707341859568"
+    },
+    {
+      "name": "Pelego Mercearia",
+      "uri": "https://maps.google.com/maps/contrib/105472981133866878775"
+    },
+    {
+      "name": "Cleci Cioatto",
+      "uri": "https://maps.google.com/maps/contrib/112680034112864020428"
+    }
+  ],
+  "validationRequired": true
+}
